@@ -28,7 +28,7 @@ The dashboards were created to help a product team answer the following question
 
 ## Dashboard previews
 
-### Dashboard  — Revenue overview
+### Dashboard  — Revenue Overview
 
 Shows monthly revenue, monthly revenue by location, and total revenue by software product.
 
@@ -48,7 +48,7 @@ Which months showed the strongest performance?
 Were there any noticeable drops in revenue?
 Is the growth stable or volatile?
 
-#Monthly Revenue by Location
+#### Monthly Revenue by Location
 
 This multi-line chart displays monthly revenue separately for APAC, EMEA, and USA. Each line represents one location, making it possible to compare regional performance over time.
 
