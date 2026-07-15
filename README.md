@@ -1,6 +1,6 @@
 # SaaS Revenue Analytics in Tableau
 
-[![Tableau Public](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dmytro.onishchuk/viz/OnishchukHW14_Part2/Dashboard_2)
+[![Tableau Public](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/tableau-saas-revenue-analytics/Dashboard_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?logo=tableau&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Focus-Revenue%20Analytics-4472C4)
 
@@ -10,7 +10,8 @@ The project covers monthly revenue trends, location and product performance, pai
 
 ## Live dashboard
 
-**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/dmytro.onishchuk/viz/OnishchukHW14_Part2/Dashboard_2)**
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/views/tableau-saas-revenue-analytics/Dashboard_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+)**
 
 ## Business objective
 
