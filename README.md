@@ -37,7 +37,7 @@ The first dashboard provides a high-level overview of the company’s revenue pe
 
 The dashboard combines three visualizations:
 
-#Monthly Revenue
+Monthly Revenue
 
 This line chart shows the total amount of revenue generated in each month. It helps identify the overall revenue trend, periods of rapid growth, temporary declines, and the month with the highest result.
 
