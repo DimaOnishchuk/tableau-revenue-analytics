@@ -418,7 +418,8 @@ tableau-saas-revenue-analytics/
 
 Open the published interactive visualization:
 
-**[SaaS Revenue Analytics Dashboard](https://public.tableau.com/app/profile/dmytro.onishchuk/viz/OnishchukHW14_Part2/Dashboard_2)**
+**[SaaS Revenue Analytics Dashboard](https://public.tableau.com/views/tableau-saas-revenue-analytics/Dashboard_2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+)**
 
 ### Tableau Desktop or Tableau Public Desktop
 
